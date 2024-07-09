@@ -6,7 +6,7 @@ The goal is to create a tool that can help healthcare professionals identify pot
 
   
 ## Dataset  
-The data used are: _Female Respondent Data File **(2017_2019_FemRespData.dat)**_ and _Female Pregnancy Data File **(2017_2019_FemPregData.dat)**_  
+The data used are: _**Female Respondent Data File (2017_2019_FemRespData.dat)**_ and _**Female Pregnancy Data File (2017_2019_FemPregData.dat)**_  
 These data are obtained from Center for Disease Control, National Survey of Family Growth website, which you can access from the link below:  
 https://www.cdc.gov/nchs/nsfg/nsfg_2017_2019_puf.htm#downloadable 
 
